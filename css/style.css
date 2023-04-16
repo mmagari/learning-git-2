@@ -1,0 +1,15 @@
+body{
+    font-size: 15px;
+    line-height: 1.2;
+    font-family: 'Signika Negative', sans-serif;
+    color: #000;
+    background-color: white;
+}
+
+.song{
+    margin-left: 30px;
+}
+
+.song h1{
+    font-size: 32px;
+}
